@@ -9897,6 +9897,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Lives1: {fileID: 0}
   Lives2: {fileID: 0}
+  Lives3: {fileID: 0}
+  Lives4: {fileID: 0}
 --- !u!82 &594089959
 AudioSource:
   m_ObjectHideFlags: 0
@@ -11586,6 +11588,10 @@ PrefabInstance:
     - target: {fileID: 3422505814847949199, guid: af8e8f702ce1eaf4abea12900c22203b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4319332769478039347, guid: af8e8f702ce1eaf4abea12900c22203b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
