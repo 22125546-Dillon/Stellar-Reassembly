@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Parts
+  - Ground
+  - Trap
+  - InstantDeath
+  - LifePickup
+  - Lives
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - post processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3393608371
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1964320357
+    locked: 0
+  - name: portal
+    uniqueID: 2944036151
+    locked: 0
+  - name: player
+    uniqueID: 124623873
+    locked: 0
+  - name: Panel1
+    uniqueID: 1133659439
+    locked: 0
+  - name: Panel2
+    uniqueID: 4271836701
+    locked: 0
